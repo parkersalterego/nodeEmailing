@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/parkersalterego/nodeEmailing/issues"
   },
-  "homepage": "https://github.com/parkersalterego/nodeEmailing#readme"
+  "homepage": "https://github.com/parkersalterego/nodeEmailing#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "dotenv": "^5.0.1",
+    "email-templates": "^3.6.0",
+    "handlebars": "^4.0.11",
+    "nodemailer": "^4.6.4"
+  }
 }
