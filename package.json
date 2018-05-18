@@ -1,0 +1,19 @@
+{
+  "name": "nodeemailing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkersalterego/nodeEmailing.git"
+  },
+  "author": "Adam Weaver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parkersalterego/nodeEmailing/issues"
+  },
+  "homepage": "https://github.com/parkersalterego/nodeEmailing#readme"
+}
